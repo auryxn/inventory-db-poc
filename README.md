@@ -28,3 +28,4 @@ This project showcases a robust schema for inventory management using **Drizzle 
 ---
 *Developed by Aliaksei Ioda as part of a Technical Portfolio.*
 // Achievement hunting
+// Co-author testing
